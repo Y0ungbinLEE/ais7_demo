@@ -22,4 +22,4 @@
 
 # image test
 * 면보다 멋진 선 
-https://user-images.githubusercontent.com/115921625/196314442-e4804774-6f7b-43cb-bbd0-d0bfd129fdcb.png
+
