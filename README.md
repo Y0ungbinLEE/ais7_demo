@@ -21,7 +21,7 @@
 
 
 # image test
-* 면보다 멋진 선 
+* apple music playlist
 
 <img src="https://user-images.githubusercontent.com/115921625/196315279-67b953e1-cac0-4a27-bd35-b35ea959f911.png">
 https://user-images.githubusercontent.com/115921625/196315279-67b953e1-cac0-4a27-bd35-b35ea959f911.png
